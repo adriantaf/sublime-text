@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/molokai/molokai.tmTheme",
+	"theme": "Default.sublime-theme",
+	"font_face": "Consolas", // ProggyCrossed, JetBrains Mono
+	"font_size": 12,
+
+	"tab_size": 4,
+	
+	"highlight_modified_tabs": true,
+
+	"caret_style": "smooth",
+	"wide_caret": true,
+	"caret_extra_width": 0,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+}
+
+/*
+Instalar:
+Package control
+molokai (opcional)
+A File Icon
+Terminal
+Color highlight (opcional)
+*/
