@@ -1,7 +1,11 @@
 {
-	"color_scheme": "Packages/molokai/molokai.tmTheme",
+	"ignored_packages":
+	[
+		// "Vintage"
+	],
+	"color_scheme": "Monokai.sublime-color-scheme",
 	"theme": "Default.sublime-theme",
-	"font_face": "Consolas", // ProggyCrossed, JetBrains Mono
+	"font_face": "Consolas", // ProggyCrossed
 	"font_size": 12,
 
 	"tab_size": 4,
@@ -9,17 +13,13 @@
 	"highlight_modified_tabs": true,
 
 	"caret_style": "smooth",
-	"wide_caret": true,
-	"caret_extra_width": 0,
-	"caret_extra_bottom": 2,
-	"caret_extra_top": 2,
+	"indent_guide_options": ["draw_normal", "solid", "draw_active_single"],
 }
 
 /*
 Instalar:
 Package control
-molokai (opcional)
+darkula color scheme
 A File Icon
 Terminal
-Color highlight (opcional)
 */
